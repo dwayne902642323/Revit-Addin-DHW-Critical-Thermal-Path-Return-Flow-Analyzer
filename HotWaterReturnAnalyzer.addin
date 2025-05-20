@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Hot Water Return Analyzer</Name>
+    <Assembly>C:\Program Files\Autodesk\HotWaterReturnAnalyzer.dll</Assembly>
+    <AddInId>99D94F1B-9EC4-437B-AD36-1F61A62B7250</AddInId>
+    <FullClassName>RevitHotWaterReturnFlow.CalculateHotWaterReturn_GPMfromCriticalLoss</FullClassName>
+    <VendorId>DEUB</VendorId>
+    <VendorDescription>Derek Eubanks</VendorDescription>
+  </AddIn>
+</RevitAddIns>
