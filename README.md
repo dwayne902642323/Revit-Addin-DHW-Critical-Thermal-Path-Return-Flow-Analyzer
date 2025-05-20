@@ -87,12 +87,6 @@ HotWaterReturnAnalyzer.dll — compiled code
 
 HotWaterReturnAnalyzer.addin — registration manifest
 
-📂 Folder Structure:
-
-%APPDATA%\Autodesk\Revit\Addins\2025\
-  ├── HotWaterReturnAnalyzer.dll
-  └── HotWaterReturnAnalyzer.addin
-
 🧾 .addin File Example:
 
 <RevitAddIns>
